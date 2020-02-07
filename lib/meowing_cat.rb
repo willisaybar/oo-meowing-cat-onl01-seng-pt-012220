@@ -7,5 +7,3 @@ class Cat
   end
 
 end
-
-gsdf
