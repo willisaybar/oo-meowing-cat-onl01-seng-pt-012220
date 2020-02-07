@@ -15,3 +15,5 @@ end
 
 pet = Cat.new
 pet.name = "Whiskers"
+pet.meow
+pet.talk
