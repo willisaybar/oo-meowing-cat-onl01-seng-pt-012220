@@ -6,4 +6,11 @@ class Cat
     puts "meow!"
   end
 
+  def talk
+    puts "My name is #{name}."
+  end
+
 end
+
+
+Cat.new 
