@@ -13,4 +13,5 @@ class Cat
 end
 
 
-Cat.new 
+pet = Cat.new
+pet.name = "Whiskers"
